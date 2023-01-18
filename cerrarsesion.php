@@ -1,0 +1,1 @@
+<?php header("location:claves2.php"); ?>

@@ -1,0 +1,6 @@
+cambios prestamil
+1- agregar campo rol (administrador  e invitado) en claves.
+admin
+agregar campos usuario en varias tablas
+actualizar los usuarios en esas tablas
+UPDATE `ventas` SET `usuario`="admin"

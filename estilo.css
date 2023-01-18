@@ -1,0 +1,56 @@
+BODY{MARGIN: 0px;FONT-family:verdana,Sylfaen,Courier New,arial;font-size:8pt; background: #CCCCCC; font-family:monospace;}
+
+
+.titulo{font-family:verdana;font-size:10pt; color:#990000}
+.textotabla{font-family:verdana;font-size:10pt; color:#333333}
+.titulo2{font-family:verdana;font-size:8pt;color:#FF0000}
+.titulo3{font-family:verdana;font-size:12pt; color:#003333}
+.titulo4{font-family:verdana;font-size:8pt;color:#FFB164}
+.titulo5{font-family:verdana;font-size:8pt;color:#FFB164}
+.titulo6{font-family:verdana;font-size:8pt;color:#0099CC}
+.titulo7{font-family:verdana;font-size:8pt;color: #000000}
+
+.link-gris:hover {
+	COLOR: #009966}
+.link-gris {
+	COLOR: #ffffff; TEXT-DECORATION: none;FONT-family:tahoma,verdana,arial,times new roman;font-size:8pt
+}
+
+.bordetabla2{ border:thin #000000; border-right:none; border-left:none}
+.unborde{ border:thin #000000; border-right:none; border-left:none; border-bottom:#000000 thin; border-top: #000000 thin}
+.bordetabla{ border:thin #000000}
+.link-titulo:hover {
+	COLOR: #993300}
+.link-titulo {
+	COLOR: #FF9933; TEXT-DECORATION: none;FONT-family:verdana,arial,times new roman;font-size:8pt
+}
+
+.link-barra:hover {
+	COLOR: #FF9933}
+.link-barra {
+	COLOR: #339933; TEXT-DECORATION: none;FONT-family:tahoma,verdana,arial,times new roman;font-size:8pt
+}
+
+.link-barra2:hover {
+	COLOR: #993333}
+.link-barra2 {
+	COLOR:#cccccc ; TEXT-DECORATION: none;FONT-family:verdana,arial,times new roman;font-size:7pt
+}
+
+.link:hover {
+	COLOR: #ff0000}
+.link {
+	COLOR:#666666 ; TEXT-DECORATION: none;FONT-family:verdana,arial,times new roman;font-size:7pt
+}
+
+.beto {
+	font-size: 9px;
+}
+.beto2 {
+	font-weight: bold;
+	font-size: 5px;
+}
+.beto3 {
+	font-weight: bold;
+	font-size: 7px;
+}

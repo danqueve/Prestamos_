@@ -1,0 +1,42 @@
+#slideshow {
+	BACKGROUND-COLOR: #c4c4c4; WIDTH: 521px; HEIGHT: 212px; OVERFLOW: hidden
+}
+#slides {
+	BACKGROUND-IMAGE: url(/templates/home/images/not.gif); PADDING-BOTTOM: 5px; WIDTH: 521px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 50% top; HEIGHT: 174px; OVERFLOW: hidden
+}
+#slides UL.ul-news {
+	BACKGROUND-IMAGE: url(/templates/home/images/not.gif); PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #c4c4c4; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 50% top; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#slides UL.ul-news LI.li-news {
+	BACKGROUND-IMAGE: url(/templates/home/images/not.gif); PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #c4c4c4; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 50% top; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#slides UL.ul-news LI.li-news {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 501px; PADDING-RIGHT: 10px; HEIGHT: 164px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+#slides UL.ul-news LI.li-news IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; MARGIN: 0px 5px; WIDTH: 255px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+#slides UL.ul-news LI.li-news H2 {
+	TEXT-TRANSFORM: uppercase; MARGIN: 0px 0px 5px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #4a4a4a; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+#slideshow .slides-nav {
+	PADDING-BOTTOM: 10px; LIST-STYLE-TYPE: none; MARGIN: 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: arial, sans-serif; BORDER-TOP: #4a4a4a 1px solid; LIST-STYLE-IMAGE: none; PADDING-TOP: 5px
+}
+#slideshow > .slides-nav {
+	MARGIN-TOP: 2px
+}
+#slideshow .slides-nav LI {
+	BORDER-BOTTOM: #cd0909 1px solid; BORDER-LEFT: #4a4a4a 1px solid; MARGIN: 0px 6px 0px 0px; BACKGROUND: #d6d6c1; FLOAT: left; COLOR: #4a4a4a; BORDER-TOP: #4a4a4a 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #4a4a4a 1px solid
+}
+#slideshow .slides-nav LI A {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; DISPLAY: block; COLOR: #4a4a4a; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+#slideshow .slides-nav LI.on A {
+	BACKGROUND-COLOR: #252525; COLOR: #fff
+}
+#slideshow #slides-nav #sliderPrevBtn {
+	POSITION: absolute; WIDTH: 17px; HEIGHT: 19px; TOP: 160px; CURSOR: pointer; LEFT: 5px
+}
+#slideshow #slides-nav #sliderNextBtn {
+	POSITION: absolute; WIDTH: 17px; HEIGHT: 19px; TOP: 160px; CURSOR: pointer; RIGHT: 5px
+}
